@@ -7,4 +7,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I used to be an interventional cardiologist
 
-[![Michermd's GitHub stats](https://github-readme-stats.vercel.app/api?username=michermd)](https://github.com/michermd/github-readme-stats)
+<!-- [![Michermd's GitHub stats](https://github-readme-stats.vercel.app/api?username=michermd)](https://github.com/michermd/github-readme-stats) -->
